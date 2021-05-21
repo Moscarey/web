@@ -89,10 +89,10 @@ h1{
 }
 
 .nav-link{
-    font-size: 1.6rem;
-    font-weight: 400;
+    font-size: 1.8rem;
     color: #a22330;
     text-decoration: none;
+    font-weight: bold;
 }
 
 .nav-link:hover{
@@ -260,8 +260,6 @@ button {
     padding: 1rem;
     width: 30%;
     margin-left: 150px;
-
-
 }
 
 .serviciosb  {
@@ -384,6 +382,7 @@ button {
         transition: 0.3s;
         box-shadow:
             0 10px 27px rgba(0, 0, 0, 0.05);
+            
     }
 
     .nav-menu.active {
