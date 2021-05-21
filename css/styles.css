@@ -256,6 +256,7 @@ form {
     border: 1px solid #ccc;
     border-radius: 1rem;
     margin-bottom: 2rem;
+    text-align: left;
 }
 
 ul {
